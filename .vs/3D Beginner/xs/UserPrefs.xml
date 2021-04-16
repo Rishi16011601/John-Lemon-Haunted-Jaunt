@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B1A1F748-2F20-C7DC-6A6F-5DBA3B56EBE7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pack/3DBeginner_Third-PartyNotice.txt">
+    <Files>
+      <File FileName="Assets/Pack/Scripts/WaypointPatrol.cs" Line="1" Column="1" />
+      <File FileName="Assets/Pack/Scripts/Observer.cs" Line="20" Column="29" />
+      <File FileName="Assets/Pack/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Pack/Scripts/GameEnding.cs" />
+      <File FileName="Assets/Pack/3DBeginner_Third-PartyNotice.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="966d8671-6a70-4bb7-9d83-2e45c92bcfdd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
